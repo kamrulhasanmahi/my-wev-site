@@ -100,4 +100,16 @@ font-size: 18px;
 
 
 }
+.cod-tai{
+   display: flex;
+   text-align: center;
+   
+   
+  
+}
+
+.cod{
+
+   margin: 0 30px;
+}
   
