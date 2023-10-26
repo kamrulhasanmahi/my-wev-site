@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 800;
+    font-size: 44 px;
+}
+
+.header{
+   
+}  
+
+
+ nav{
+ display: flex;
+ justify-content:space-between ;
+ margin: 50px 200px;
+ }
+ nav ul{
+    display: flex;
+    align-items: center;
+    
+ }
+ nav li{
+    list-style: none;
+    margin-left: 50px;
+
+ }
+ .mahi{
+    color: coral;
+ }
+ .btn-clour{
+    height: 64px;
+    border-radius: 5px;
+    background-color: coral;
+    color: white;
+    border: 0px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 30px;
+    
+   }
+img{
+   margin-left: 400px;
+}
+ 
+
+  .bnear{
+   display: flex;
+   
+   margin: 50px 200px;
+   align-items: center;
+  }
+   .titel{
+ font-weight: 600;
+ font-size: 45px;
+
+
+
+  }
+   .titel-2{
+      font-size: 85px;
+      font-weight: 700;
+
+  }
+  .titel-pra{
+   color: #757575;
+   font-size: 18px;
+   margin-bottom: 10px;
+  }
+
+  main{
+   max-width: 1140px;
+   margin: 0% auto;
+  }
+  
+.about{
+margin-top: 130px;
+background-color: bisque;
+border-radius: 10px;
+padding: 130px 150px;
+text-align: center;
+
+
+}
+.about-text{
+ margin-bottom: 30px;
+ color: black;
+ font-size: 35px;
+ font-weight: 700;
+
+
+
+}
+.about-dis{
+
+margin-bottom: 30px;
+color: #757575;
+font-size: 18px;
+
+
+
+}
+  
