@@ -6,7 +6,7 @@
 }
 
 .header{
-   
+ 
 }  
 
 
@@ -42,7 +42,7 @@
 .img-1{
    margin-left: 400px;
 }
- 
+
 
   .bnear{
    display: flex;
@@ -165,5 +165,67 @@ font-size: 18px;
 
 }
 .resum-con{
+   margin-top: 80px;
    display: flex;
+   gap: 24px;
+}
+.rej-tai{
+ margin-top: 30px;
+ margin-bottom: 30px;
+ font-size: ;
+}
+.rej-sub{
+font-size: 25px;
+font-weight: 700px;
+margin-bottom: 10px;
+}
+.raj-sub-tai{
+color: #757575;
+font-size: 20px;
+font-weight: 600px;
+margin-bottom: 20px;
+}
+.sub-tai{
+color: rgb(124, 124, 124);
+}
+.btn-2{
+
+    border-radius: 5px;
+    background-color: coral;
+    color: white;
+    border: 0px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 30px;
+    
+}
+.rij-bn{
+   text-align: center;
+   margin-top: 30px;
+}
+.content{
+display: flex;
+gap: 100px;
+background-color: blanchedalmond;
+padding: 130px 200px;
+}
+.con-tai{
+text-align: left;
+padding-bottom: 50px;
+font-size: larger;
+}
+.content input[type="text"], input[type="email"], textarea {
+margin-bottom: 24px;
+width: 100%;
+border: 0;
+padding: 18px 20px;
+}
+input{
+   height: 64px;
+}
+.tak{
+   padding-bottom: ;
+}
+.ggg{
+   padding-top: 20px;
 }
